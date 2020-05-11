@@ -4,7 +4,7 @@
 	<ul>
 		<li>10171, 고양이 - <a href="https://blog.naver.com/handuelly/221726843072">링크</a></li>
 		<li>10172, 개 - <a href="https://blog.naver.com/handuelly/221726845702">링크</a></li>
-		<li>1182, We love kriii - <a href="https://blog.naver.com/handuelly/221726840594">링크</a></li>
+		<li>10718, We love kriii - <a href="https://blog.naver.com/handuelly/221726840594">링크</a></li>
 		<li>1182, 부분수열의 합 - <a href="https://blog.naver.com/handuelly/221682802078">링크</a></li>
 		<li>1260, DFS와 BFS - <a href="https://blog.naver.com/handuelly/221681992524">링크</a></li>
 		<li>14501, 퇴사 - <a href="https://blog.naver.com/handuelly/221683313388">링크</a></li>
