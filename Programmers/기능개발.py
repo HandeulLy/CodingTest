@@ -2,7 +2,7 @@ import math
 
 def solution(progresses, speeds):
     answer = []
-    size = len(progresses) # 입력 리스트의 크기
+    size = len(progresses) # 입력 리스트 크기
     point = 0 # 리스트 요소를 가리키는 인덱스 역할
     count = 0
 
