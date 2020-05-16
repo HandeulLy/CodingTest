@@ -1,5 +1,5 @@
 <h1>Coding Test</h1>
-<hr><hr>
+<hr>
 
 <table>
 <tr>
@@ -15,6 +15,7 @@
 		<li>1008, A/B - <a href="https://blog.naver.com/handuelly/221726857765">Blog</a></li>
 		<li>10171, 고양이 - <a href="https://blog.naver.com/handuelly/221726843072">Blog</a></li>
 		<li>10172, 개 - <a href="https://blog.naver.com/handuelly/221726845702">Blog</a></li>
+		<li>10430, 나머지 - <a href="https://blog.naver.com/handuelly/221726861667">Blog</a></li>
 		<li>10718, We love kriii - <a href="https://blog.naver.com/handuelly/221726840594">Blog</a></li>
 		<li>10869, 사칙연산 - <a href="https://blog.naver.com/handuelly/221726859797">Blog</a></li>
 		<li>10998, A*B - <a href="https://blog.naver.com/handuelly/221726855708">Blog</a></li>
@@ -36,6 +37,7 @@
 		<li>기능 개발 - <a href="https://blog.naver.com/handuelly/221669147683">Blog</a></li>
 		<li>두 정수 사이의 합 - <a href="https://blog.naver.com/handuelly/221671096291">Blog</a></li>
 		<li>멀리뛰기 - <a href="https://blog.naver.com/handuelly/221671126133">Blog</a></li>
+		<li>모의고사 - <a href="https://blog.naver.com/handuelly/221672895561">Blog</a></li>
 		<li>서울에서 김서방 찾기 - <a href="https://blog.naver.com/handuelly/221671087461">Blog</a></li>
 		<li>스킬트리 - <a href="https://blog.naver.com/handuelly/221669207797">Blog</a></li>
 		<li>완주하지 못한 선수 - <a href="https://blog.naver.com/handuelly/221669277268">Blog</a></li>
