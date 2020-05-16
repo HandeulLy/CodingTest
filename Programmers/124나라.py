@@ -3,8 +3,7 @@ def solution(n):
     # 대신 0이 아니라 4를 사용해야 하고, 숫자를 계속 3으로 나눠서 낮춰야 함
 
     answer = ''
-    number = ['4', '1', '2']
-    
+    number = ['4', '1', '2']    
 
     while n != 0 :
         index = n % 3
