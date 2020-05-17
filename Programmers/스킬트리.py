@@ -1,6 +1,5 @@
 def solution(skill, skill_trees):
     # skill_trees의 각 아이템을 순회하면서 skill 순서에 어긋나는지 확인
-
     # skill_trees의 i번째 아이템 j번째 스킬이 skill에 있는지 확인 - in 사용
     # 있으면 선행 스킬이 있는지 봐야하고, 없으면 j+1번째로 넘어가서 확인
 
