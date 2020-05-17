@@ -1,6 +1,6 @@
 def solution(priorities, location):
     answer = 0
-    size = len(priorities) # 입력 리스트의 크기
+    size = len(priorities) # 입력 리스트 크기
     temp = [0] * size # 출력되는 순서를 저장할 임시 리스트 선언
     point = 0 # 가장 높은 우선순위를 가지는 작업을 가리킬 인덱스
     count = 1 # 출력되는 순서
