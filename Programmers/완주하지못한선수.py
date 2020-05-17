@@ -16,7 +16,6 @@ def solution(participant, completion):
             answer = participant[i]
             break
         
-    print(answer)
     return answer
 
 input_participant = ['marina', 'josipa', 'josipa','nikola', 'vinko', 'vinko', 'filipa']
