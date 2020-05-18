@@ -21,10 +21,11 @@
 		<li>10998, A*B - <a href="https://blog.naver.com/handuelly/221726855708">Blog</a></li>
 		<li>1182, 부분수열의 합 - <a href="https://blog.naver.com/handuelly/221682802078">Blog</a></li>
 		<li>1260, DFS와 BFS - <a href="https://blog.naver.com/handuelly/221681992524">Blog</a></li>
+		<li>1330, 두 수 비교하기 - <a href="https://blog.naver.com/handuelly/221726871953">Blog</a></li>
 		<li>14501, 퇴사 - <a href="https://blog.naver.com/handuelly/221683313388">Blog</a></li>
 		<li>2309, 일곱 난쟁이 - <a href="https://blog.naver.com/handuelly/221682684980">Blog</a></li>
 		<li>2557, Hello World - <a href="https://blog.naver.com/handuelly/221726837156">Blog</a></li>
-		<li>2588, 추가 - <a href="https://blog.naver.com/handuelly/221799034310">Blog</a></li>
+		<li>2588, 곱셈 - <a href="https://blog.naver.com/handuelly/221799034310">Blog</a></li>
 		<li>7287, 등록 - <a href="https://blog.naver.com/handuelly/221726848229">Blog</a></li>
 	</ul>
 	<vr>
@@ -33,6 +34,7 @@
 	<ul>
 		<li>124 나라의 숫자 - <a href="https://blog.naver.com/handuelly/221669234703">Blog</a></li>
 		<li>2016년 - <a href="https://blog.naver.com/handuelly/221669218511">Blog</a></li>
+		<li>문자열 내 p와 y의 개수 - <a href="https://blog.naver.com/handuelly/221673161724">Blog</a></li>
 		<li>가운데 글자 가져오기 - <a href="https://blog.naver.com/handuelly/221671080366">Blog</a></li>
 		<li>가장  - <a href="https://blog.naver.com/handuelly/221672825404">Blog</a></li>
 		<li>기능 개발 - <a href="https://blog.naver.com/handuelly/221669147683">Blog</a></li>
