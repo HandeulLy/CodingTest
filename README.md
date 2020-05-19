@@ -27,6 +27,7 @@
 		<li>2557, Hello World - <a href="https://blog.naver.com/handuelly/221726837156">Blog</a></li>
 		<li>2588, 곱셈 - <a href="https://blog.naver.com/handuelly/221799034310">Blog</a></li>
 		<li>7287, 등록 - <a href="https://blog.naver.com/handuelly/221726848229">Blog</a></li>
+		<li>9498, 시험 성적 - <a href="https://blog.naver.com/handuelly/221726879138">Blog</a></li>
 	</ul>
 	<vr>
 	</td>
@@ -44,6 +45,7 @@
 		<li>서울에서 김서방 찾기 - <a href="https://blog.naver.com/handuelly/221671087461">Blog</a></li>
 		<li>스킬트리 - <a href="https://blog.naver.com/handuelly/221669207797">Blog</a></li>
 		<li>완주하지 못한 선수 - <a href="https://blog.naver.com/handuelly/221669277268">Blog</a></li>
+		<li>주식 가격 - <a href="https://blog.naver.com/handuelly/221673616261">Blog</a></li>
 		<li>체육복 - <a href="https://blog.naver.com/handuelly/221673141537">Blog</a></li>
 		<li>프린터 - <a href="https://blog.naver.com/handuelly/221669145207">Blog</a></li>
 	</ul>
