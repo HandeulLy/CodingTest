@@ -3,8 +3,8 @@
 
 <table>
 <tr>
-	<td width="300"><h2>BOJ</h2></td>
-	<td width="300"><h2>Programmers</h2></td>
+	<td width="400"><h2>BOJ</h2></td>
+	<td width="400"><h2>Programmers</h2></td>
 </tr>
 
 <tr>
