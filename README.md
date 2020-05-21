@@ -25,7 +25,8 @@
 		<li>14501, 퇴사 - <a href="https://blog.naver.com/handuelly/221683313388">Blog</a></li>
 		<li>2309, 일곱 난쟁이 - <a href="https://blog.naver.com/handuelly/221682684980">Blog</a></li>
 		<li>2557, Hello World - <a href="https://blog.naver.com/handuelly/221726837156">Blog</a></li>
-		<li>2588, 곱셈 - <a href="https://blog.naver.com/handuelly/221799034310">Blog</a></li>
+		<li>2588, 곱셈 - <a href="https://blog.naver.com/handuelly/221799034310">Blog1</a>
+				<a href="https://blog.naver.com/handuelly/221726863267">Blog2</a></li>
 		<li>2753, 윤년 - <a href="https://blog.naver.com/handuelly/221726881302">Blog</a></li>
 		<li>2884, 알람 시계 - <a href="https://blog.naver.com/handuelly/221726884134">Blog</a></li>
 		<li>7287, 등록 - <a href="https://blog.naver.com/handuelly/221726848229">Blog</a></li>
