@@ -17,6 +17,7 @@
 		<li>10172, 개 - <a href="https://blog.naver.com/handuelly/221726845702">Blog</a></li>
 		<li>10430, 나머지 - <a href="https://blog.naver.com/handuelly/221726861667">Blog</a></li>
 		<li>10718, We love kriii - <a href="https://blog.naver.com/handuelly/221726840594">Blog</a></li>
+		<li>10869, 세 수 - <a href="https://blog.naver.com/handuelly/221726886304">Blog</a></li>
 		<li>10869, 사칙연산 - <a href="https://blog.naver.com/handuelly/221726859797">Blog</a></li>
 		<li>10998, A*B - <a href="https://blog.naver.com/handuelly/221726855708">Blog</a></li>
 		<li>1182, 부분수열의 합 - <a href="https://blog.naver.com/handuelly/221682802078">Blog</a></li>
@@ -48,6 +49,7 @@
 		<li>문자열 내림차순으로 배치하기 - <a href="https://blog.naver.com/handuelly/221673677581">Blog</a></li>
 		<li>문자열 내 마음대로 정렬하기 - <a href="https://blog.naver.com/handuelly/221673632168">Blog</a></li>
 		<li>서울에서 김서방 찾기 - <a href="https://blog.naver.com/handuelly/221671087461">Blog</a></li>
+		<li>수박수박수박수박수박수? - <a href="https://blog.naver.com/handuelly/221673693197">Blog</a></li>
 		<li>스킬트리 - <a href="https://blog.naver.com/handuelly/221669207797">Blog</a></li>
 		<li>완주하지 못한 선수 - <a href="https://blog.naver.com/handuelly/221669277268">Blog</a></li>
 		<li>주식 가격 - <a href="https://blog.naver.com/handuelly/221673616261">Blog</a></li>
