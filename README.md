@@ -28,6 +28,7 @@
 		<li>2557, Hello World - <a href="https://blog.naver.com/handuelly/221726837156">Blog</a></li>
 		<li>2588, 곱셈 - <a href="https://blog.naver.com/handuelly/221799034310">Blog1</a>
 				<a href="https://blog.naver.com/handuelly/221726863267">Blog2</a></li>
+		<li>2739, 구구단 - <a href="https://blog.naver.com/handuelly/221726894843">Blog</a></li>
 		<li>2753, 윤년 - <a href="https://blog.naver.com/handuelly/221726881302">Blog</a></li>
 		<li>2884, 알람 시계 - <a href="https://blog.naver.com/handuelly/221726884134">Blog</a></li>
 		<li>7287, 등록 - <a href="https://blog.naver.com/handuelly/221726848229">Blog</a></li>
@@ -52,6 +53,7 @@
 		<li>수박수박수박수박수박수? - <a href="https://blog.naver.com/handuelly/221673693197">Blog</a></li>
 		<li>스킬트리 - <a href="https://blog.naver.com/handuelly/221669207797">Blog</a></li>
 		<li>완주하지 못한 선수 - <a href="https://blog.naver.com/handuelly/221669277268">Blog</a></li>
+		<li>이상한 문자 만들기 - <a href="https://blog.naver.com/handuelly/221674188336">Blog</a></li>
 		<li>주식 가격 - <a href="https://blog.naver.com/handuelly/221673616261">Blog</a></li>
 		<li>체육복 - <a href="https://blog.naver.com/handuelly/221673141537">Blog</a></li>
 		<li>프린터 - <a href="https://blog.naver.com/handuelly/221669145207">Blog</a></li>
