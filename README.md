@@ -19,6 +19,7 @@
 		<li>10718, We love kriii - <a href="https://blog.naver.com/handuelly/221726840594">Blog</a></li>
 		<li>10869, 세 수 - <a href="https://blog.naver.com/handuelly/221726886304">Blog</a></li>
 		<li>10869, 사칙연산 - <a href="https://blog.naver.com/handuelly/221726859797">Blog</a></li>
+		<li>10950, A+B-3 - <a href="https://blog.naver.com/handuelly/221726904971">Blog</a></li>
 		<li>10998, A*B - <a href="https://blog.naver.com/handuelly/221726855708">Blog</a></li>
 		<li>1182, 부분수열의 합 - <a href="https://blog.naver.com/handuelly/221682802078">Blog</a></li>
 		<li>1260, DFS와 BFS - <a href="https://blog.naver.com/handuelly/221681992524">Blog</a></li>
@@ -57,6 +58,7 @@
 		<li>주식 가격 - <a href="https://blog.naver.com/handuelly/221673616261">Blog</a></li>
 		<li>체육복 - <a href="https://blog.naver.com/handuelly/221673141537">Blog</a></li>
 		<li>프린터 - <a href="https://blog.naver.com/handuelly/221669145207">Blog</a></li>
+		<li>핸드폰 번호 가리기 - <a href="https://blog.naver.com/handuelly/221674193712">Blog</a></li>
 	</ul>
 	</td>
 </tr>
