@@ -3,8 +3,8 @@
 
 <table>
 <tr>
-	<td width="400"><h2>BOJ</h2></td>
-	<td width="400"><h2>Programmers</h2></td>
+	<td width=40%><h2>BOJ</h2></td>
+	<td width=40%><h2>Programmers</h2></td>
 </tr>
 
 <tr>
@@ -33,6 +33,7 @@
 		<li>2753, 윤년 - <a href="https://blog.naver.com/handuelly/221726881302">Blog</a></li>
 		<li>2884, 알람 시계 - <a href="https://blog.naver.com/handuelly/221726884134">Blog</a></li>
 		<li>7287, 등록 - <a href="https://blog.naver.com/handuelly/221726848229">Blog</a></li>
+		<li>8393, 합 - <a href="https://blog.naver.com/handuelly/221726911523">Blog</a></li>
 		<li>9498, 시험 성적 - <a href="https://blog.naver.com/handuelly/221726879138">Blog</a></li>
 	</ul>
 	<vr>
@@ -55,6 +56,7 @@
 		<li>스킬트리 - <a href="https://blog.naver.com/handuelly/221669207797">Blog</a></li>
 		<li>완주하지 못한 선수 - <a href="https://blog.naver.com/handuelly/221669277268">Blog</a></li>
 		<li>이상한 문자 만들기 - <a href="https://blog.naver.com/handuelly/221674188336">Blog</a></li>
+		<li>자연수 뒤집어 배열로 만들기 - <a href="https://blog.naver.com/handuelly/221674229320">Blog</a></li>
 		<li>주식 가격 - <a href="https://blog.naver.com/handuelly/221673616261">Blog</a></li>
 		<li>체육복 - <a href="https://blog.naver.com/handuelly/221673141537">Blog</a></li>
 		<li>프린터 - <a href="https://blog.naver.com/handuelly/221669145207">Blog</a></li>
