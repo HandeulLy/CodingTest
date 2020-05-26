@@ -25,6 +25,7 @@
 		<li>1260, DFS와 BFS - <a href="https://blog.naver.com/handuelly/221681992524">Blog</a></li>
 		<li>1330, 두 수 비교하기 - <a href="https://blog.naver.com/handuelly/221726871953">Blog</a></li>
 		<li>14501, 퇴사 - <a href="https://blog.naver.com/handuelly/221683313388">Blog</a></li>
+		<li>15552, 빠른 A+B - <a href="https://blog.naver.com/handuelly/221726916715">Blog</a></li>
 		<li>2309, 일곱 난쟁이 - <a href="https://blog.naver.com/handuelly/221682684980">Blog</a></li>
 		<li>2557, Hello World - <a href="https://blog.naver.com/handuelly/221726837156">Blog</a></li>
 		<li>2588, 곱셈 - <a href="https://blog.naver.com/handuelly/221799034310">Blog1</a>
@@ -54,6 +55,7 @@
 		<li>서울에서 김서방 찾기 - <a href="https://blog.naver.com/handuelly/221671087461">Blog</a></li>
 		<li>수박수박수박수박수박수? - <a href="https://blog.naver.com/handuelly/221673693197">Blog</a></li>
 		<li>스킬트리 - <a href="https://blog.naver.com/handuelly/221669207797">Blog</a></li>
+		<li>예산 - <a href="https://blog.naver.com/handuelly/221674164841">Blog</a></li>
 		<li>완주하지 못한 선수 - <a href="https://blog.naver.com/handuelly/221669277268">Blog</a></li>
 		<li>이상한 문자 만들기 - <a href="https://blog.naver.com/handuelly/221674188336">Blog</a></li>
 		<li>자연수 뒤집어 배열로 만들기 - <a href="https://blog.naver.com/handuelly/221674229320">Blog</a></li>
