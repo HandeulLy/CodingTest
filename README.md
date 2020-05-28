@@ -70,7 +70,6 @@
 		<li>핸드폰 번호 가리기 - <a href="https://blog.naver.com/handuelly/221674193712">Blog</a></li>
 	</ul>
 	</td>
-
 	<td valign="top">
 	<ul>
 		<li>모든 레코드 조회하기 - <a href="https://blog.naver.com/handuelly/221980294453">Blog</a></li>
