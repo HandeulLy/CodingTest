@@ -3,8 +3,9 @@
 
 <table>
 <tr>
-	<td width=40%><h2>BOJ</h2></td>
-	<td width=40%><h2>Programmers</h2></td>
+	<td width=30%><h2>BOJ</h2></td>
+	<td width=30%><h2>Programmers</h2></td>
+	<td width=30%><h2>Programmers_SQL</h2></td>
 </tr>
 
 <tr>
@@ -32,6 +33,7 @@
 				<a href="https://blog.naver.com/handuelly/221726863267">Blog2</a></li>
 		<li>2739, 구구단 - <a href="https://blog.naver.com/handuelly/221726894843">Blog</a></li>
 		<li>2741, N 찍기 - <a href="https://blog.naver.com/handuelly/221726920660">Blog</a></li>
+		<li>2742, 기찍 N - <a href="https://blog.naver.com/handuelly/221726923643">Blog</a></li>
 		<li>2753, 윤년 - <a href="https://blog.naver.com/handuelly/221726881302">Blog</a></li>
 		<li>2884, 알람 시계 - <a href="https://blog.naver.com/handuelly/221726884134">Blog</a></li>
 		<li>7287, 등록 - <a href="https://blog.naver.com/handuelly/221726848229">Blog</a></li>
@@ -53,6 +55,7 @@
 		<li>모의고사 - <a href="https://blog.naver.com/handuelly/221672895561">Blog</a></li>
 		<li>문자열 내림차순으로 배치하기 - <a href="https://blog.naver.com/handuelly/221673677581">Blog</a></li>
 		<li>문자열 내 마음대로 정렬하기 - <a href="https://blog.naver.com/handuelly/221673632168">Blog</a></li>
+		<li>문자열을 정수로 바꾸기 - <a href="https://blog.naver.com/handuelly/221675164970">Blog</a></li>
 		<li>서울에서 김서방 찾기 - <a href="https://blog.naver.com/handuelly/221671087461">Blog</a></li>
 		<li>수박수박수박수박수박수? - <a href="https://blog.naver.com/handuelly/221673693197">Blog</a></li>
 		<li>스킬트리 - <a href="https://blog.naver.com/handuelly/221669207797">Blog</a></li>
@@ -65,6 +68,12 @@
 		<li>체육복 - <a href="https://blog.naver.com/handuelly/221673141537">Blog</a></li>
 		<li>프린터 - <a href="https://blog.naver.com/handuelly/221669145207">Blog</a></li>
 		<li>핸드폰 번호 가리기 - <a href="https://blog.naver.com/handuelly/221674193712">Blog</a></li>
+	</ul>
+	</td>
+
+	<td valign="top">
+	<ul>
+		<li> - <a href=""></a></li>
 	</ul>
 	</td>
 </tr>
