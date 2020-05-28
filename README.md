@@ -73,7 +73,7 @@
 
 	<td valign="top">
 	<ul>
-		<li> - <a href=""></a></li>
+		<li>모든 레코드 조회하기 - <a href="https://blog.naver.com/handuelly/221980294453">Blog</a></li>
 	</ul>
 	</td>
 </tr>
