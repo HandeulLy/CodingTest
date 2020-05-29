@@ -72,7 +72,6 @@
 		<li><a href="https://blog.naver.com/handuelly/221674193712">핸드폰 번호 가리기</a></li>
 	</ul>
 	</td>
-
 	<td valign="top">
 	<ul>
 		<li><a href="https://blog.naver.com/handuelly/221980294453">모든 레코드 조회하기</a></li>
