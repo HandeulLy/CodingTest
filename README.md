@@ -24,6 +24,7 @@
 		<li>10998, <a href="https://blog.naver.com/handuelly/221726855708">A*B</a></li>
 		<li>1182, <a href="https://blog.naver.com/handuelly/221682802078">부분수열의 합</a></li>
 		<li>11021, <a href="https://blog.naver.com/handuelly/221726940441">A+B-7</a></li>
+		<li>11022, <a href="https://blog.naver.com/handuelly/221726942023">A+B-8</a></li>
 		<li>1260, <a href="https://blog.naver.com/handuelly/221681992524">DFS와 BFS</a></li>
 		<li>1330, <a href="https://blog.naver.com/handuelly/221726871953">두 수 비교하기</a></li>
 		<li>14501, <a href="https://blog.naver.com/handuelly/221683313388">퇴사</a></li>
@@ -50,6 +51,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221673161724">문자열 내 p와 y의 개수</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221671080366">가운데 글자 가져오기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221672825404">가장 큰 수</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221676720104">같은 숫자는 싫어</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221669147683">기능 개발</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221671096291">두 정수 사이의 합</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221671126133">멀리뛰기</a></li>
