@@ -30,6 +30,7 @@
 		<li>14501, <a href="https://blog.naver.com/handuelly/221683313388">퇴사</a></li>
 		<li>15552, <a href="https://blog.naver.com/handuelly/221726916715">빠른 A+B</a></li>
 		<li>2309, <a href="https://blog.naver.com/handuelly/221682684980">일곱 난쟁이</a></li>
+		<li>2438, <a href="https://blog.naver.com/handuelly/221726943941">별찍기-1</a></li>
 		<li>2557, <a href="https://blog.naver.com/handuelly/221726837156">Hello World</a></li>
 		<li>2588, <a href="https://blog.naver.com/handuelly/221799034310">곱셉</a>1 
 			<a href="https://blog.naver.com/handuelly/221726863267">곱셈</a>2</li>
@@ -69,6 +70,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221678796965">예상 대진표</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221669277268">완주하지 못한 선수</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221674188336">이상한 문자 만들기</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221679835462">자릿수 더하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221674229320">자연수 뒤집어 배열로 만들기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673616261">주식가격</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673141537">체육복</a></li>
