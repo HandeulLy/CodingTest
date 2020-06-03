@@ -72,6 +72,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221674188336">이상한 문자 만들기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221679835462">자릿수 더하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221674229320">자연수 뒤집어 배열로 만들기</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221679854014">정수 제곱근 판별</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673616261">주식가격</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673141537">체육복</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221669145207">프린터</a></li>
@@ -83,6 +84,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221980294453">모든 레코드 조회하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980280080">역순 정렬하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980300059">최댓값 구하기</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221980305199">최솟값 구하기</a></li>
 	</ul>
 	</td>
 </tr>
