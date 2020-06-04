@@ -31,6 +31,7 @@
 		<li>15552, <a href="https://blog.naver.com/handuelly/221726916715">빠른 A+B</a></li>
 		<li>2309, <a href="https://blog.naver.com/handuelly/221682684980">일곱 난쟁이</a></li>
 		<li>2438, <a href="https://blog.naver.com/handuelly/221726943941">별찍기-1</a></li>
+		<li>2439, <a href="https://blog.naver.com/handuelly/221726945513">별찍기-2</a></li>
 		<li>2557, <a href="https://blog.naver.com/handuelly/221726837156">Hello World</a></li>
 		<li>2588, <a href="https://blog.naver.com/handuelly/221799034310">곱셉</a>1 
 			<a href="https://blog.naver.com/handuelly/221726863267">곱셈</a>2</li>
@@ -85,6 +86,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221980280080">역순 정렬하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980300059">최댓값 구하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980305199">최솟값 구하기</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221980309250">동물 수 구하기</a></li>
 	</ul>
 	</td>
 </tr>
