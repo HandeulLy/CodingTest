@@ -77,6 +77,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221673616261">주식가격</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673141537">체육복</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221669145207">프린터</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221679909194">하샤드 수</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221674193712">핸드폰 번호 가리기</a></li>
 	</ul>
 	</td>
@@ -87,6 +88,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221980300059">최댓값 구하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980305199">최솟값 구하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980309250">동물 수 구하기</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221980318309">중복 제거하기</a></li>
 	</ul>
 	</td>
 </tr>
