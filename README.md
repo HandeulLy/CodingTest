@@ -20,6 +20,7 @@
 		<li>10718, <a href="https://blog.naver.com/handuelly/221726840594">We love kriii</a></li>
 		<li>10869, <a href="https://blog.naver.com/handuelly/221726886304">세 수</a></li>
 		<li>10869, <a href="https://blog.naver.com/handuelly/221726859797">사칙연산</a></li>
+		<li>10871, <a href="https://blog.naver.com/handuelly/221726947059">X보다 작은 수</a></li>
 		<li>10950, <a href="https://blog.naver.com/handuelly/221726904971">A+B-3</a></li>
 		<li>10998, <a href="https://blog.naver.com/handuelly/221726855708">A*B</a></li>
 		<li>1182, <a href="https://blog.naver.com/handuelly/221682802078">부분수열의 합</a></li>
@@ -89,6 +90,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221980305199">최솟값 구하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980309250">동물 수 구하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980318309">중복 제거하기</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221980358001">고양이와 개는 몇 마리 있을까</a></li>
 	</ul>
 	</td>
 </tr>
