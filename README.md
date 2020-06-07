@@ -91,6 +91,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221980309250">동물 수 구하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980318309">중복 제거하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980358001">고양이와 개는 몇 마리 있을까</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221980612377">동명 동물 수 찾기</a></li>
 	</ul>
 	</td>
 </tr>
