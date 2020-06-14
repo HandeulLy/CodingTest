@@ -97,6 +97,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221980358001">고양이와 개는 몇 마리 있을까</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980612377">동명 동물 수 찾기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980625029">입양 시각 구하기(1)</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221980701893">아픈 동물 </a></li>
 	</ul>
 	</td>
 </tr>
