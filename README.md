@@ -79,7 +79,8 @@
 		<li><a href="https://blog.naver.com/handuelly/221679835462">자릿수 더하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221674229320">자연수 뒤집어 배열로 만들기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221679854014">정수 제곱근 판별</a></li>
-		<li><a href="https://blog.naver.com/handuelly/221673616261">주식가격</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221676734335">주식 가격</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221673616261">직사각형 별찍기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673141537">체육복</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221669145207">프린터</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221679909194">하샤드 수</a></li>
