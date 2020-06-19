@@ -44,6 +44,7 @@
 		<li>2742, <a href="https://blog.naver.com/handuelly/221726923643">기찍 N</a></li>
 		<li>2753, <a href="https://blog.naver.com/handuelly/221726881302">윤년</a></li>
 		<li>2884, <a href="https://blog.naver.com/handuelly/221726884134">알람 시계</a></li>
+		<li>2941, <a href="https://blog.naver.com/handuelly/221788893018">크로아티아 알파벳</a></li>
 		<li>7287, <a href="https://blog.naver.com/handuelly/221726848229">등록</a></li>
 		<li>8393, <a href="https://blog.naver.com/handuelly/221726911523">합</a></li>
 		<li>9498, <a href="https://blog.naver.com/handuelly/221726879138">시험 성적</a></li>
