@@ -103,6 +103,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221980625029">입양 시각 구하기(1)</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980701893">아픈 동물 찾기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980708224">어린 동물 찾기</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221980716874">동물의 아이디와 이름</a></li>
 	</ul>
 	</td>
 </tr>
