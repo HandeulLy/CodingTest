@@ -56,6 +56,7 @@
 	<ul>
 		<li><a href="https://blog.naver.com/handuelly/221669234703">124 나라의 숫자</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221669218511">2016년</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221680895379">H-Index</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221676763508">K번째 수</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673161724">문자열 내 p와 y의 개수</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221676743473">x만큼 간격이 있는 n개의 숫자</a></li>
