@@ -71,6 +71,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221671126133">멀리뛰기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221672895561">모의고사</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673677581">문자열 내림차순으로 배치하기</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221676798567">문자열 다루기 기본</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673632168">문자열 내 마음대로 정렬하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221675164970">문자열을 정수로 바꾸기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221671087461">서울에서 김서방 찾기</a></li>
