@@ -81,6 +81,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221673693197">수박수박수박수박수박수?</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221678913215">숫자의 표현</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221669207797">스킬트리</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221676832706">시저암호</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221675210500">약수의 합</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221674165922">영어 끝말잇기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221674164841">예산</a></li>
