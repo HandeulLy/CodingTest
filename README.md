@@ -16,6 +16,7 @@
 		<li>1008, <a href="https://blog.naver.com/handuelly/221726857765">A/B</a></li>
 		<li>10171, <a href="https://blog.naver.com/handuelly/221726843072">고양이</a></li>
 		<li>10172, <a href="https://blog.naver.com/handuelly/221726845702">개</a></li>
+		<li>10250, <a href="https://blog.naver.com/handuelly/221816837142">ACM 호텔</a></li>
 		<li>10430, <a href="https://blog.naver.com/handuelly/221726861667">나머지</a></li>
 		<li>10718, <a href="https://blog.naver.com/handuelly/221726840594">We love kriii</a></li>
 		<li>10869, <a href="https://blog.naver.com/handuelly/221726886304">세 수</a></li>
