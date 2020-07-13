@@ -124,6 +124,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221980818629">이름이 있는 동물의 아이디</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980823899">NULL 처리하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980846455">없어진 기록 찾기</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221981223909">있었는데요 없었습니다</a></li>
 	</ul>
 	</td>
 </tr>
