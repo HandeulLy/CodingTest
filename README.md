@@ -22,6 +22,7 @@
 		<li>10869, <a href="https://blog.naver.com/handuelly/221726886304">세 수</a></li>
 		<li>10869, <a href="https://blog.naver.com/handuelly/221726859797">사칙연산</a></li>
 		<li>10871, <a href="https://blog.naver.com/handuelly/221726947059">X보다 작은 수</a></li>
+		<li>10872, <a href="https://blog.naver.com/handuelly/221817018371">팩토리얼</a></li>
 		<li>10950, <a href="https://blog.naver.com/handuelly/221726904971">A+B-3</a></li>
 		<li>10951, <a href="https://blog.naver.com/handuelly/221731913531">A+B-4</a></li>
 		<li>10952, <a href="https://blog.naver.com/handuelly/221731911200">A+B-5</a></li>
