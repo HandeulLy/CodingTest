@@ -127,6 +127,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221980823899">NULL 처리하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221980846455">없어진 기록 찾기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221981223909">있었는데요 없었습니다</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221981242706">오랜 기간 보호한 동물</a></li>
 	</ul>
 	</td>
 </tr>
