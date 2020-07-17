@@ -88,6 +88,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221674165922">영어 끝말잇기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221674164841">예산</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221678796965">예상 대진표</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221684349589">올바른 괄호</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221669277268">완주하지 못한 선수</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221674188336">이상한 문자 만들기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221679835462">자릿수 더하기</a></li>
