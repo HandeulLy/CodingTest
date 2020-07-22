@@ -101,6 +101,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221676734335">주식 가격</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673616261">직사각형 별찍기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221677380657">짝수와 홀수</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221839526302">짝지어 제거하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673141537">체육복</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221680981211">카펫</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221684358148">타겟 넘버</a></li>
