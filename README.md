@@ -14,6 +14,7 @@
 		<li>1000, <a href="https://blog.naver.com/handuelly/221726849914">A+B</a></li>
 		<li>1001, <a href="https://blog.naver.com/handuelly/221726852670">A-B</a></li>
 		<li>1008, <a href="https://blog.naver.com/handuelly/221726857765">A/B</a></li>
+		<li>1011, <a href="https://blog.naver.com/handuelly/221822544439">Fly me to the Alpha Centauri</a></li>
 		<li>10171, <a href="https://blog.naver.com/handuelly/221726843072">고양이</a></li>
 		<li>10172, <a href="https://blog.naver.com/handuelly/221726845702">개</a></li>
 		<li>10250, <a href="https://blog.naver.com/handuelly/221816837142">ACM 호텔</a></li>
