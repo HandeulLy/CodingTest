@@ -117,6 +117,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221684283751">피보나치 수</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221679909194">하샤드 수</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221674193712">핸드폰 번호 가리기</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221958622394">행렬의 곱셈</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221857957060">행렬의 덧셈</a></li>
 	</ul>
 	</td>
