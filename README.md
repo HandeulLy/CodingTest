@@ -80,6 +80,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221676720104">같은 숫자는 싫어</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221669147683">기능 개발</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221676727209">나누어 떨어지는 숫자 배열</a></li>
+		<li><a href="https://blog.naver.com/handuelly/221965289437">다음 큰 숫자</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221671096291">두 정수 사이의 합</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221671126133">멀리뛰기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221672895561">모의고사</a></li>
