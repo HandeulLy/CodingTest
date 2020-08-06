@@ -41,6 +41,7 @@
 		<li>14501, <a href="https://blog.naver.com/handuelly/221683313388">퇴사</a></li>
 		<li>15552, <a href="https://blog.naver.com/handuelly/221726916715">빠른 A+B</a></li>
 		<li>1712, <a href="https://blog.naver.com/handuelly/221794437184">손익분기점</a></li>
+		<li>1978, <a href="https://blog.naver.com/handuelly/221824590286">벌집</a></li>
 		<li>2292, <a href="https://blog.naver.com/handuelly/221803628147">벌집</a></li>
 		<li>2309, <a href="https://blog.naver.com/handuelly/221682684980">일곱 난쟁이</a></li>
 		<li>2438, <a href="https://blog.naver.com/handuelly/221726943941">별찍기-1</a></li>
