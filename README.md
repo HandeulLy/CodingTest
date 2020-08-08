@@ -49,6 +49,7 @@
 		<li>2557, <a href="https://blog.naver.com/handuelly/221726837156">Hello World</a></li>
 		<li>2588, <a href="https://blog.naver.com/handuelly/221799034310">곱셉</a>1 
 			<a href="https://blog.naver.com/handuelly/221726863267">곱셈</a>2</li>
+		<li>2581, <a href="https://blog.naver.com/handuelly/221824610473">소수</a></li>
 		<li>2739, <a href="https://blog.naver.com/handuelly/221726894843">구구단</a></li>
 		<li>2741, <a href="https://blog.naver.com/handuelly/221726920660">N 찍기</a></li>
 		<li>2742, <a href="https://blog.naver.com/handuelly/221726923643">기찍 N</a></li>
