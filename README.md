@@ -48,6 +48,7 @@
 		<li>2438, <a href="https://blog.naver.com/handuelly/221726943941">별찍기-1</a></li>
 		<li>2439, <a href="https://blog.naver.com/handuelly/221726945513">별찍기-2</a></li>
 		<li>2557, <a href="https://blog.naver.com/handuelly/221726837156">Hello World</a></li>
+		<li>2562, <a href="https://blog.naver.com/handuelly/221845564625">최대값</a></li>
 		<li>2581, <a href="https://blog.naver.com/handuelly/221824610473">소수</a></li>
 		<li>2588, <a href="https://blog.naver.com/handuelly/221799034310">곱셉</a>1 
 			<a href="https://blog.naver.com/handuelly/221726863267">곱셈</a>2</li>
