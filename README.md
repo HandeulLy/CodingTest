@@ -49,6 +49,7 @@
 		<li>2309, <a href="https://blog.naver.com/handuelly/221682684980">일곱 난쟁이</a></li>
 		<li>2438, <a href="https://blog.naver.com/handuelly/221726943941">별찍기-1</a></li>
 		<li>2439, <a href="https://blog.naver.com/handuelly/221726945513">별찍기-2</a></li>
+		<li>2446, <a href="https://blog.naver.com/handuelly/221976119158">별찍기-9</a></li>
 		<li>2523, <a href="https://blog.naver.com/handuelly/221969836375">별찍기-13</a></li>
 		<li>2557, <a href="https://blog.naver.com/handuelly/221726837156">Hello World</a></li>
 		<li>2562, <a href="https://blog.naver.com/handuelly/221845564625">최대값</a></li>
