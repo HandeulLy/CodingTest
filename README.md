@@ -66,7 +66,8 @@
 		<li>2869, <a href="https://blog.naver.com/handuelly/221801290418">달팽이는 올라가고 싶다</a></li>
 		<li>2884, <a href="https://blog.naver.com/handuelly/221726884134">알람 시계</a></li>
 		<li>2941, <a href="https://blog.naver.com/handuelly/221788893018">크로아티아 알파벳</a></li>
-		<li>3009, <a href="https://blog.naver.com/handuelly/221817246002">네 번째 점</a></li>
+		<li>3009, <a href="https://blog.naver.com/handuelly/221817246002">네 번째 점</a>
+			<a href="https://blog.naver.com/handuelly/221977242532">추가</a></li>
 		<li>3053, <a href="https://blog.naver.com/handuelly/221818463845">택시 기하학</a></li>
 		<li>4153, <a href="https://blog.naver.com/handuelly/221818409116">직각 삼각형</a></li>
 		<li>4673, <a href="https://blog.naver.com/handuelly/221822644463">셀프 넘버</a></li>
