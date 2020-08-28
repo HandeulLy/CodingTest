@@ -60,6 +60,7 @@
 		<li>2739, <a href="https://blog.naver.com/handuelly/221726894843">구구단</a></li>
 		<li>2741, <a href="https://blog.naver.com/handuelly/221726920660">N 찍기</a></li>
 		<li>2742, <a href="https://blog.naver.com/handuelly/221726923643">기찍 N</a></li>
+		<li>2750, <a href="https://blog.naver.com/handuelly/222009497850">수 정렬하기</a></li>
 		<li>2753, <a href="https://blog.naver.com/handuelly/221726881302">윤년</a></li>
 		<li>2775, <a href="https://blog.naver.com/handuelly/221798460594">부녀회장이 될테야</a></li>
 		<li>2839, <a href="https://blog.naver.com/handuelly/221804803353">설탕 배달</a></li>
