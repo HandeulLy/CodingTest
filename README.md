@@ -31,6 +31,7 @@
 		<li>10950, <a href="https://blog.naver.com/handuelly/221726904971">A+B-3</a></li>
 		<li>10951, <a href="https://blog.naver.com/handuelly/221731913531">A+B-4</a></li>
 		<li>10952, <a href="https://blog.naver.com/handuelly/221731911200">A+B-5</a></li>
+		<li>10989, <a href="https://blog.naver.com/handuelly/222013729531">수 정렬하기 3</a></li>
 		<li>10996, <a href="https://blog.naver.com/handuelly/221977078861">별찍기-21</a></li>
 		<li>10998, <a href="https://blog.naver.com/handuelly/221726855708">A*B</a></li>
 		<li>1182, <a href="https://blog.naver.com/handuelly/221682802078">부분수열의 합</a></li>
