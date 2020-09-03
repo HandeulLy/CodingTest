@@ -42,6 +42,7 @@
 		<li>1193, <a href="https://blog.naver.com/handuelly/221794602737">분수찾기</a></li>
 		<li>1260, <a href="https://blog.naver.com/handuelly/221681992524">DFS와 BFS</a></li>
 		<li>1330, <a href="https://blog.naver.com/handuelly/221726871953">두 수 비교하기</a></li>
+		<li>1427, <a href="https://blog.naver.com/handuelly/222020854922">소트 인사이드</a></li>
 		<li>14501, <a href="https://blog.naver.com/handuelly/221683313388">퇴사</a></li>
 		<li>14681, <a href="https://blog.naver.com/handuelly/221957000529">사분면 고르기</a></li>
 		<li>15552, <a href="https://blog.naver.com/handuelly/221726916715">빠른 A+B</a></li>
