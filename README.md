@@ -39,6 +39,7 @@
 		<li>11022, <a href="https://blog.naver.com/handuelly/221726942023">A+B-8</a></li>
 		<li>1110, <a href="https://blog.naver.com/handuelly/221731914965">더하기 사이클</a></li>
 		<li>1152, <a href="https://blog.naver.com/handuelly/221819798556">단어의 개수</a></li>
+		<li>11650, <a href="https://blog.naver.com/handuelly/222020848312">좌표 정렬하기 1</a></li>
 		<li>1193, <a href="https://blog.naver.com/handuelly/221794602737">분수찾기</a></li>
 		<li>1260, <a href="https://blog.naver.com/handuelly/221681992524">DFS와 BFS</a></li>
 		<li>1330, <a href="https://blog.naver.com/handuelly/221726871953">두 수 비교하기</a></li>
