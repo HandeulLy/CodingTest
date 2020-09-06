@@ -34,13 +34,14 @@
 		<li>10989, <a href="https://blog.naver.com/handuelly/222013729531">수 정렬하기 3</a></li>
 		<li>10996, <a href="https://blog.naver.com/handuelly/221977078861">별찍기-21</a></li>
 		<li>10998, <a href="https://blog.naver.com/handuelly/221726855708">A*B</a></li>
-		<li>1182, <a href="https://blog.naver.com/handuelly/221682802078">부분수열의 합</a></li>
 		<li>11021, <a href="https://blog.naver.com/handuelly/221726940441">A+B-7</a></li>
 		<li>11022, <a href="https://blog.naver.com/handuelly/221726942023">A+B-8</a></li>
 		<li>1110, <a href="https://blog.naver.com/handuelly/221731914965">더하기 사이클</a></li>
 		<li>1152, <a href="https://blog.naver.com/handuelly/221819798556">단어의 개수</a></li>
 		<li>11650, <a href="https://blog.naver.com/handuelly/222020848312">좌표 정렬하기 1</a></li>
 		<li>11651, <a href="https://blog.naver.com/handuelly/222020850028">좌표 정렬하기 2</a></li>
+		<li>1181, <a href="https://blog.naver.com/handuelly/222023839987"></a></li>
+		<li>1182, <a href="https://blog.naver.com/handuelly/221682802078">부분수열의 합</a></li>
 		<li>1193, <a href="https://blog.naver.com/handuelly/221794602737">분수찾기</a></li>
 		<li>1260, <a href="https://blog.naver.com/handuelly/221681992524">DFS와 BFS</a></li>
 		<li>1330, <a href="https://blog.naver.com/handuelly/221726871953">두 수 비교하기</a></li>
