@@ -80,7 +80,8 @@
 		<li>3053, <a href="https://blog.naver.com/handuelly/221818463845">택시 기하학</a></li>
 		<li>4153, <a href="https://blog.naver.com/handuelly/221818409116">직각 삼각형</a></li>
 		<li>4673, <a href="https://blog.naver.com/handuelly/221822644463">셀프 넘버</a></li>
-		<li>4673, <a href="https://blog.naver.com/handuelly/221845554338">상근날드</a></li>
+		<li>4948, <a href="https://blog.naver.com/handuelly/222027903169">베르트랑 공준</a></li>
+		<li>5543, <a href="https://blog.naver.com/handuelly/221845554338">상근날드</a></li>
 		<li>7287, <a href="https://blog.naver.com/handuelly/221726848229">등록</a></li>
 		<li>8393, <a href="https://blog.naver.com/handuelly/221726911523">합</a></li>
 		<li>9498, <a href="https://blog.naver.com/handuelly/221726879138">시험 성적</a></li>
