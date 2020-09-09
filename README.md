@@ -84,6 +84,7 @@
 		<li>5543, <a href="https://blog.naver.com/handuelly/221845554338">상근날드</a></li>
 		<li>7287, <a href="https://blog.naver.com/handuelly/221726848229">등록</a></li>
 		<li>8393, <a href="https://blog.naver.com/handuelly/221726911523">합</a></li>
+		<li>9040, <a href="https://blog.naver.com/handuelly/222030640994">골드바흐의 </a></li>
 		<li>9498, <a href="https://blog.naver.com/handuelly/221726879138">시험 성적</a></li>
 	</ul>
 	<vr>
