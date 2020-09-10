@@ -51,7 +51,8 @@
 		<li>14681, <a href="https://blog.naver.com/handuelly/221957000529">사분면 고르기</a></li>
 		<li>15552, <a href="https://blog.naver.com/handuelly/221726916715">빠른 A+B</a></li>
 		<li>1712, <a href="https://blog.naver.com/handuelly/221794437184">손익분기점</a></li>
-		<li>1978, <a href="https://blog.naver.com/handuelly/221824590286">소수찾기</a></li>
+		<li>1929, <a href="https://blog.naver.com/handuelly/222037283240">소수 구하기</a></li>
+		<li>1978, <a href="https://blog.naver.com/handuelly/221824590286">소수 찾기</a></li>
 		<li>2108, <a href="https://blog.naver.com/handuelly/222013872942">통계학</a></li>
 		<li>2292, <a href="https://blog.naver.com/handuelly/221803628147">벌집</a></li>
 		<li>2309, <a href="https://blog.naver.com/handuelly/221682684980">일곱 난쟁이</a></li>
