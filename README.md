@@ -55,6 +55,7 @@
 		<li>1929, <a href="https://blog.naver.com/handuelly/222037283240">소수 구하기</a></li>
 		<li>1978, <a href="https://blog.naver.com/handuelly/221824590286">소수 찾기</a></li>
 		<li>2108, <a href="https://blog.naver.com/handuelly/222013872942">통계학</a></li>
+		<li>2231, <a href="https://blog.naver.com/handuelly/222057441905">분해합</a></li>
 		<li>2292, <a href="https://blog.naver.com/handuelly/221803628147">벌집</a></li>
 		<li>2309, <a href="https://blog.naver.com/handuelly/221682684980">일곱 난쟁이</a></li>
 		<li>2438, <a href="https://blog.naver.com/handuelly/221726943941">별찍기-1</a></li>
