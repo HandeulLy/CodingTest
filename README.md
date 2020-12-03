@@ -107,6 +107,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221676720104">같은 숫자는 싫어</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221669147683">기능 개발</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221676727209">나누어 떨어지는 숫자 배열</a></li>
+		<li><a href="https://blog.naver.com/handuelly/222158485842">내적</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221965289437">다음 큰 숫자</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221973271364">다트 게임</a></li>
 		<li><a href="https://blog.naver.com/handuelly/222155514700">두 개 뽑아서 더하기</a></li>
