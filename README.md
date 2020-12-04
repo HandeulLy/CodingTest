@@ -137,6 +137,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221669277268">완주하지 못한 선수</a></li>
 		<li><a href="https://blog.naver.com/handuelly/222037226815">위장</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221674188336">이상한 문자 만들기</a></li>
+		<li><a href="https://blog.naver.com/handuelly/222158534143">이진 변환 반복하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221679835462">자릿수 더하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221674229320">자연수 뒤집어 배열로 만들기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221677456230">정수 내림차순으로 배치하기</a></li>
