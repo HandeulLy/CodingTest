@@ -153,6 +153,7 @@
 		<li><a href="https://blog.naver.com/handuelly/222022621919">최솟값 만들기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221680981211">카펫</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221857998631">콜라츠 추측</a></li>
+		<li><a href="https://blog.naver.com/handuelly/222161282388">크레인 인형뽑기 게임</a></li>
 		<li><a href="https://blog.naver.com/handuelly/222039640663">키패드 누르기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221684358148">타겟 넘버</a></li>
 		<li><a href="https://blog.naver.com/handuelly/222025652378">탑</a></li>
