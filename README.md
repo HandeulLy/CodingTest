@@ -105,6 +105,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221671080366">가운데 글자 가져오기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221672825404">가장 큰 수</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221676720104">같은 숫자는 싫어</a></li>
+		<li><a href="https://blog.naver.com/handuelly/222162554945">구명보트</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221669147683">기능 개발</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221676727209">나누어 떨어지는 숫자 배열</a></li>
 		<li><a href="https://blog.naver.com/handuelly/222158485842">내적</a></li>
