@@ -113,6 +113,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221973271364">다트 게임</a></li>
 		<li><a href="https://blog.naver.com/handuelly/222155514700">두 개 뽑아서 더하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221671096291">두 정수 사이의 합</a></li>
+		<li><a href="https://blog.naver.com/handuelly/222164719977">땅따먹기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221671126133">멀리뛰기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221672895561">모의고사</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673677581">문자열 내림차순으로 배치하기</a></li>
