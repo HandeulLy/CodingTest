@@ -104,6 +104,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221676743473">x만큼 간격이 있는 n개의 숫자</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221671080366">가운데 글자 가져오기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221672825404">가장 큰 수</a></li>
+		<li><a href="https://blog.naver.com/handuelly/222166244875">가장 큰 정사각형 찾기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221676720104">같은 숫자는 싫어</a></li>
 		<li><a href="https://blog.naver.com/handuelly/222162554945">구명보트</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221669147683">기능 개발</a></li>
