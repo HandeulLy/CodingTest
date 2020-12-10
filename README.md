@@ -146,6 +146,7 @@
 		<li><a href="https://blog.naver.com/handuelly/221677456230">정수 내림차순으로 배치하기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221679854014">정수 제곱근 판별</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221677398386">제일 작은 수 만들기</a></li>
+		<li><a href="https://blog.naver.com/handuelly/222168499060">조이스틱</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221676734335">주식 가격</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673616261">직사각형 별찍기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221677380657">짝수와 홀수</a></li>
