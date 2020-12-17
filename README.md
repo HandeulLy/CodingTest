@@ -124,6 +124,7 @@
 		<li><a href="https://blog.naver.com/handuelly/222019024041">비밀지도</a></li>
 		<li><a href="https://blog.naver.com/handuelly/222157046417">삼각 달팽이</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221671087461">서울에서 김서방 찾기</a></li>
+		<li><a href="https://blog.naver.com/handuelly/222176777414">소수찾기(완전탐색)</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221860803899">소수찾기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/222028550506">쇠막대기</a></li>
 		<li><a href="https://blog.naver.com/handuelly/221673693197">수박수박수박수박수박수?</a></li>
